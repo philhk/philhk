@@ -9,6 +9,7 @@
       <br>
       <br> discord: <a href="https://discord.com/users/305288513941667851">Phil#7117</a>
       <br>
+      <br> support me by leaving a ⭐ on my repositories
     </samp>
   </div>
   <br>
