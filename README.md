@@ -7,7 +7,7 @@
     <samp>
       <br> languages: <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">javascript</a>, <a href="https://www.typescriptlang.org/">typescript</a>
       <br>
-      <br> discord: <a href="https://discord.com/users/305288513941667851">og#2222</a>
+      <br> discord: <a href="https://discord.com/users/305288513941667851">._y</a>
       <br>
       <br> support me by leaving a ⭐ on my repositories
     </samp>
